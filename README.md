@@ -8,4 +8,13 @@ Python 3.x
 Google API Client Library
 Matplotlib
 You will also need a valid API key from the Google Cloud Console with access to the YouTube Data API.
+Setup
+Clone the repository:
+git clone https://github.com/your-username/youtube-analytics-dashboard.git
+Install the required Python packages:
+pip install -r requirements.txt
+Usage
+Run the script youtube_analytics.py using Python:
+python youtube_analytics.py
+
 
